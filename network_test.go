@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ulule/limiter/v3"
+	"github.com/mlsen/limiter/v3"
 )
 
 func TestGetIP(t *testing.T) {
